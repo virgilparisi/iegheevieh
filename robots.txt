@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicooshah.tas.pila.pl/sitemap.xml
